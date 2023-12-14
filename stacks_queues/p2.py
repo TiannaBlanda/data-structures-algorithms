@@ -45,3 +45,4 @@ if __name__ == "__main__":
     print is_balanced("{[()]}")
     print is_balanced("{[(])}")
     print is_balanced("{{[[(())]]}}")
+ 
